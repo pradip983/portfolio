@@ -23,7 +23,7 @@ const projects = [
     year: "Apr2025",
     align: "right",
     image: "/website-img-3 (2).jpg",
-    link: "#",
+    link: "https://hotel-invsys.vercel.app/",
   },
   
 ];
